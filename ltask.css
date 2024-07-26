@@ -1,0 +1,208 @@
+.locate {
+    background: #7C6850;
+    border: none;
+    border-radius: 8px;
+}
+
+.gradient {
+    background: linear-gradient(178.81deg, #F9F1E6 14.53%, rgba(249, 241, 230, 0) 56.38%, #FFFFFF 91.08%);
+
+}
+
+.deluxe {
+    background: #292826;
+
+}
+
+.headingcolor {
+    color: #7C6850;
+    font-size: 70px;
+    font-style: bold;
+
+}
+
+.textposition {
+    left: 45%;
+    bottom: 70%;
+}
+
+.textposition1 {
+    padding-left: 42%;
+    bottom: 60%;
+    font-size: 42px;
+    padding-bottom: 30px;
+    ;
+}
+
+
+.textposition2 {
+    left: 37%;
+    bottom: 70%;
+}
+
+.backgroundtext {
+    color: rgba(124, 104, 80, 0.07);
+    font-size: 150px;
+    position: relative;
+}
+
+
+li {
+    list-style-type: none;
+    margin-bottom: 15px
+}
+
+.offer {
+    z-index: 2;
+    padding-right: 470px;
+    padding-top: 35px;
+    opacity: 90%;
+
+}
+
+.offer1 {
+    z-index: 3;
+}
+
+
+.cusine1 {
+    left: 40px;
+}
+
+.cusine2 {
+    left: 360px;
+}
+
+.cusine3 {
+    left: 686px;
+}
+
+.cusine4 {
+    left: 1015px;
+}
+
+.bottomright {
+    top: 34.7%;
+    left: 24.7%;
+    color: white;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.5), rgba(224, 224, 224, 0.5));
+    border-radius: 21px 0px 0px 0px;
+    border: 1px 0px 0px 1px;
+    font-style: bold;
+
+}
+
+.bottomleft {
+    top: 34.7%;
+    right: 22.7%;
+    color: white;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.5), rgba(224, 224, 224, 0.5));
+    border-radius: 0px 21px 0px 0px;
+    border: 1px 1px 0px 0px;
+    font-style: bold;
+}
+
+
+.topright {
+    bottom: 22%;
+    left: 24.7%;
+    color: white;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.5), rgba(224, 224, 224, 0.5));
+    border-radius: 0px 0px 0px 21px;
+    border: 0px 0px 1px 1px;
+    font-style: bold;
+}
+
+.topleft {
+    bottom: 22%;
+    right: 22.7%;
+    color: white;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.5), rgba(224, 224, 224, 0.5));
+    border-radius: 0px 0px 21px 0px;
+    border: 0px 1px 1px 0px;
+    font-style: bold;
+}
+
+.chickenkabab1 {
+    top: 2%;
+    left: 4%;
+    border-radius: 30px;
+    background-image: linear-gradient(92.29deg, rgba(255, 255, 255, 0.441) 0%, #4b4343cd 100%);
+}
+
+.chickenkabab2 {
+    top: 2%;
+    left: 27.5%;
+    border-radius: 30px;
+    background-image: linear-gradient(92.29deg, rgba(255, 255, 255, 0.441) 0%, #4b4343cd 100%);
+}
+
+.chickenkabab3 {
+    top: 2%;
+    left: 51%;
+    border-radius: 30px;
+    background-image: linear-gradient(92.29deg, rgba(255, 255, 255, 0.441) 0%, #4b4343cd 100%);
+}
+
+.chickenkabab4 {
+    top: 2%;
+    left: 74%;
+    border-radius: 30px;
+    background-image: linear-gradient(92.29deg, rgba(255, 255, 255, 0.441) 0%, #4b4343cd 100%);
+}
+
+.chickenkabab5 {
+    bottom: 48%;
+    left: 4%;
+    border-radius: 30px;
+    background-image: linear-gradient(92.29deg, rgba(255, 255, 255, 0.441) 0%, #4b4343cd 100%);
+}
+
+.chickenkabab6 {
+    bottom: 48%;
+    left: 27.5%;
+    border-radius: 30px;
+    background-image: linear-gradient(92.29deg, rgba(255, 255, 255, 0.441) 0%, #4b4343cd 100%);
+}
+
+.chickenkabab7 {
+    bottom: 48%;
+    left: 51%;
+    border-radius: 30px;
+    background-image: linear-gradient(92.29deg, rgba(255, 255, 255, 0.441) 0%, #4b4343cd 100%);
+}
+
+.chickenkabab8 {
+    bottom: 48%;
+    left: 74%;
+    border-radius: 30px;
+    background-image: linear-gradient(92.29deg, rgba(255, 255, 255, 0.441) 0%, #4b4343cd 100%);
+}
+
+
+
+h1,
+h3,
+h4,
+h5 {
+    font-family: Georgia;
+}
+
+.bg-color {
+    background: #F9F1E6;
+}
+
+.btn-outline {
+    border: 1px solid #7C6850
+}
+
+.bg-color-cho {
+    background: #7C6850;
+
+}
+
+
+.footer {
+    background: #F9F1E6;
+
+}
